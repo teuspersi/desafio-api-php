@@ -20,4 +20,4 @@
 5 - Utilize o token gerado na pasta principal dos requests do Postman:
 ![utilizando token no postman](https://github.com/teuspersi/desafio-api-php/blob/master/Screenshot%202021-09-23%20182742.png)
 
-6 - Caso necessário, mude a porta dos requests de `8000`para a porta em que sua aplicação está rodando.
+6 - Caso necessário, mude a porta dos requests de `8000` para a porta em que sua aplicação está rodando.

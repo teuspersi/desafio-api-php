@@ -18,6 +18,6 @@
 4 - Algumas rotas precisam de autorização, então, utilize a request `Register` do Postman para criar a conta e gerar o token;
 
 5 - Utilize o token gerado na pasta principal dos requests do Postman:
-![utilizando token no postman](https://prnt.sc/1tdln72)
+![utilizando token no postman](https://github.com/teuspersi/desafio-api-php/blob/master/Screenshot%202021-09-23%20182742.png)
 
-6 - Caso necessário, mude a porta dos requests de `8000`para a porta em que sua aplicação está rodando.
+6 - Caso necessário, mude a porta dos requests de `8000` para a porta em que sua aplicação está rodando.
